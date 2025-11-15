@@ -1,5 +1,5 @@
 # British-AirWays-Reviews-Dashboard-With-Tableau
-![image alt]
+![image alt](https://github.com/iammigjoe/British-AirWays-Reviews-Dashboard-With-Tableau/blob/main/tableaudashboard.png)
 Project: British Airways Reviews Dashboard with Tableau
 	•	Description: Built an interactive dashboard in Tableau to analyze customer reviews of British Airways. The project includes visualizations of ratings over month, aircraft, country.
 	•	Process: Explored review patterns, and created dynamic charts such as line charts, maps, and filters to allow users to interact with the data.
